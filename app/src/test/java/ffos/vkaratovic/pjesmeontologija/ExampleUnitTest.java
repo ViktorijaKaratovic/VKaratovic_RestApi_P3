@@ -1,4 +1,4 @@
-package ffos.p3.pjesmeontologija;
+package ffos.vkaratovic.pjesmeontologija;
 
 import org.junit.Test;
 

@@ -1,4 +1,4 @@
-package ffos.p3.pjesmeOntologija;
+package ffos.vkaratovic.pjesmeOntologija;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.widget.SearchView;
@@ -20,8 +20,8 @@ import java.net.URL;
 import java.util.ArrayList;
 import java.util.List;
 
-import ffos.p3.pjesmeontologija.Adapter;
-import ffos.p3.pjesmeontologija.Pjesme;
+import ffos.vkaratovic.pjesmeontologija.Adapter;
+import ffos.vkaratovic.pjesmeontologija.Pjesme;
 
 public class MainActivity extends AppCompatActivity{
 

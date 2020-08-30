@@ -1,20 +1,17 @@
-package ffos.p3.pjesmeontologija;
+package ffos.vkaratovic.pjesmeontologija;
 
 import android.content.Context;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.Filter;
-import android.widget.Filterable;
 import android.widget.TextView;
 
-import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import ffos.p3.pjesmeOntologija.R;
+import ffos.vkaratovic.pjesmeOntologija.R;
 
 
 //Za zakomentiratu Filter metodu treba vratiti "implements Filterable"
